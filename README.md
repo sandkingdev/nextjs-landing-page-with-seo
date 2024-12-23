@@ -15,7 +15,7 @@ A starter kit for building landing pages using Next.js 14, Tailwind CSS with Typ
 To get started with this starter kit, you can clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/eronred/landing-starter-kit-nextjs-tailwind.git
+git clone https://github.com/sandkingdev/nextjs-landing-with-seo.git
 npm install
 ```
 
